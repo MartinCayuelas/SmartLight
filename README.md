@@ -2,10 +2,6 @@
 
 ### Projet FASO 2017
 
-### Réalisé par:
-- CAYUELAS Martin
-- MACHHOURI Fatima
-
 # Utilisation
 Il faut positionner tous les fichiers dans le même répertoire. Il faudra télécharger la bibliothèque [GrovePi](https://github.com/DexterInd/GrovePi/tree/master/Software/Python)
 
